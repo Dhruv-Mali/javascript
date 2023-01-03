@@ -122,7 +122,7 @@ age > 18 ? console.log("You can vote") : console.log("you can not vote");
 
 /* ------------------------------------------------------------------------------------*/
 
-// 8. comma operators
+// 8. comma operators => return last element
 
 let nums = (12, 13, 14);
 console.log(nums);
